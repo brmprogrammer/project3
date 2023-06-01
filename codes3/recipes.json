@@ -1,0 +1,13 @@
+[
+   {
+    "name":"Apple Juice", 
+    "file":"applejuice.json"
+   }, 
+   {
+    "name":"Strawberry Smoothie",
+    "file": "strawberrysmoothie.json"
+   },
+   {"name":"Grape Juice Ices",
+    "file": "grapejuiceices.json"
+   }
+]
